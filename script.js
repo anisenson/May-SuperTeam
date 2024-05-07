@@ -5,8 +5,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
-        img: 'https://nypost.com/wp-content/uploads/sites/2/2020/03/babe-ruth.jpg'
+        career: 'This is Filler Text',
+        img: 'Images/babe-ruth.jpg'
     },
     {
         ranking: '2.',
@@ -14,7 +14,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/Lou-Gehrig.jpg'
     },
     {
         ranking: '3.',
@@ -22,7 +23,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     {
         ranking: '4.',
@@ -30,7 +32,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     {
         ranking: '5.',
@@ -38,7 +41,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     {
         ranking: '6.',
@@ -46,7 +50,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     {
         ranking: '7.',
@@ -54,7 +59,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     {
         ranking: '8.',
@@ -62,7 +68,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     {
         ranking: '9.',
@@ -70,7 +77,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     {
         ranking: '10.',
@@ -78,7 +86,8 @@ const teamMembers = [
         position: 'Position',
         years: "years played",
         skills: ['dribbling', 'passing', 'shooting'],
-        career: "This is Filler Text",
+        career: 'This is Filler Text',
+        img: 'Images/'
     },
     
 ]
