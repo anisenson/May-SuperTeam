@@ -99,14 +99,14 @@ const teamMembers = [
         career: 'Aaron Judge burst onto the scene as one of baseballs brightest young stars, showcasing his prodigious power and becoming a cornerstone player for the Yankees with his combination of offensive prowess and defensive ability.',
         img: 'Images/Aaron-Judge.jpeg'
     },
-    
+
 ]
 
 
 
 
 
-function generateTeamCards(){
+function generateTeamCards() {
     const teamCardsContainer = document.getElementById('teamCards')
 
     teamMembers.forEach(member => {
@@ -117,17 +117,17 @@ function generateTeamCards(){
         //background color
         let backgroundColor = ''
 
-        switch(member.position1){
+        switch (member.position1) {
             case 'Pitcher':
                 backgroundColor = '#003087'
-            break
+                break
             case 'Infield':
                 backgroundColor = '#C4CED3'
-            break
+                break
             case 'Outfield':
                 backgroundColor = '#E4002C'
-            break
-            
+                break
+
         }
 
 
@@ -137,8 +137,8 @@ function generateTeamCards(){
         //Create a list of skills with the <li> tag
         const skillsList = member.skills.map(skill => `<li> ${skill} </li>`).join('')
 
-        card.innerHTML = 
-        `
+        card.innerHTML =
+            `
         <div class = "card h-100">
             <div class = "card-header">
             <h3><b>${member.ranking}</b> ${member.name} </h3>
