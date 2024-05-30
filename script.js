@@ -130,6 +130,7 @@ function generateTeamCards(){
             
         }
 
+
         card.style.backgroundColor = backgroundColor
 
 

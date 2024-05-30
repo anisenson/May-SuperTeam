@@ -13,3 +13,34 @@ header {
 .headerIMG {
     width: 100px;
 }
+
+
+
+.customBtn {
+    background-color: #003087;
+    border-color: white;
+    color: white;
+    font-style: bold;
+
+}
+
+.customBtn:hover {
+    background-color: #E4002C;
+    border-color: white;
+}
+
+
+.customBtn:link {
+    background-color: #E4002C;
+    border-color: white;
+}
+
+
+
+
+footer {
+    color: #fff;
+    background-color: #003087;
+    flex-shrink: 0;
+    margin-bottom: 0;
+}
